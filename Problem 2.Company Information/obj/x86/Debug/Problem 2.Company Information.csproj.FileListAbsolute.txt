@@ -1,0 +1,4 @@
+C:\Users\Margarit\Desktop\Software University\4.Вход и изход от конзолата\Homework4\Homework Console Input Output\Problem 2.Company Information\bin\Debug\Problem 2.Company Information.exe
+C:\Users\Margarit\Desktop\Software University\4.Вход и изход от конзолата\Homework4\Homework Console Input Output\Problem 2.Company Information\bin\Debug\Problem 2.Company Information.pdb
+C:\Users\Margarit\Desktop\Software University\4.Вход и изход от конзолата\Homework4\Homework Console Input Output\Problem 2.Company Information\obj\x86\Debug\Problem 2.Company Information.exe
+C:\Users\Margarit\Desktop\Software University\4.Вход и изход от конзолата\Homework4\Homework Console Input Output\Problem 2.Company Information\obj\x86\Debug\Problem 2.Company Information.pdb

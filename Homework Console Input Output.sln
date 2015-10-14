@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Sum of 3 Numbers", "Problem 1. Sum of 3 Numbers\Problem 1. Sum of 3 Numbers.csproj", "{3B44217D-E04F-4AFC-9980-DF0C4F202D5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2.Company Information", "Problem 2.Company Information\Problem 2.Company Information.csproj", "{B23DD0EB-8F29-4280-93D9-8B942026A650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3.Circle Perimeter", "Problem 3.Circle Perimeter\Problem 3.Circle Perimeter.csproj", "{8B22127C-67FC-4B26-9669-A29C1B79AA93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Number Comparer", "Problem 4. Number Comparer\Problem 4. Number Comparer.csproj", "{0A624787-700E-4371-84E0-453F2F4EC10A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Formatting Numbers", "Problem 5. Formatting Numbers\Problem 5. Formatting Numbers.csproj", "{454F543C-5238-48F3-96C6-C5566683169A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B44217D-E04F-4AFC-9980-DF0C4F202D5A}.Debug|x86.ActiveCfg = Debug|x86
+		{3B44217D-E04F-4AFC-9980-DF0C4F202D5A}.Debug|x86.Build.0 = Debug|x86
+		{3B44217D-E04F-4AFC-9980-DF0C4F202D5A}.Release|x86.ActiveCfg = Release|x86
+		{3B44217D-E04F-4AFC-9980-DF0C4F202D5A}.Release|x86.Build.0 = Release|x86
+		{B23DD0EB-8F29-4280-93D9-8B942026A650}.Debug|x86.ActiveCfg = Debug|x86
+		{B23DD0EB-8F29-4280-93D9-8B942026A650}.Debug|x86.Build.0 = Debug|x86
+		{B23DD0EB-8F29-4280-93D9-8B942026A650}.Release|x86.ActiveCfg = Release|x86
+		{B23DD0EB-8F29-4280-93D9-8B942026A650}.Release|x86.Build.0 = Release|x86
+		{8B22127C-67FC-4B26-9669-A29C1B79AA93}.Debug|x86.ActiveCfg = Debug|x86
+		{8B22127C-67FC-4B26-9669-A29C1B79AA93}.Debug|x86.Build.0 = Debug|x86
+		{8B22127C-67FC-4B26-9669-A29C1B79AA93}.Release|x86.ActiveCfg = Release|x86
+		{8B22127C-67FC-4B26-9669-A29C1B79AA93}.Release|x86.Build.0 = Release|x86
+		{0A624787-700E-4371-84E0-453F2F4EC10A}.Debug|x86.ActiveCfg = Debug|x86
+		{0A624787-700E-4371-84E0-453F2F4EC10A}.Debug|x86.Build.0 = Debug|x86
+		{0A624787-700E-4371-84E0-453F2F4EC10A}.Release|x86.ActiveCfg = Release|x86
+		{0A624787-700E-4371-84E0-453F2F4EC10A}.Release|x86.Build.0 = Release|x86
+		{454F543C-5238-48F3-96C6-C5566683169A}.Debug|x86.ActiveCfg = Debug|x86
+		{454F543C-5238-48F3-96C6-C5566683169A}.Debug|x86.Build.0 = Debug|x86
+		{454F543C-5238-48F3-96C6-C5566683169A}.Release|x86.ActiveCfg = Release|x86
+		{454F543C-5238-48F3-96C6-C5566683169A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

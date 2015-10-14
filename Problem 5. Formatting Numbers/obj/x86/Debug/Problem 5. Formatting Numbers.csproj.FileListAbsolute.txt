@@ -1,0 +1,4 @@
+C:\Users\Margarit\Desktop\Software University\4.Вход и изход от конзолата\Homework4\Homework Console Input Output\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe
+C:\Users\Margarit\Desktop\Software University\4.Вход и изход от конзолата\Homework4\Homework Console Input Output\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.pdb
+C:\Users\Margarit\Desktop\Software University\4.Вход и изход от конзолата\Homework4\Homework Console Input Output\Problem 5. Formatting Numbers\obj\x86\Debug\Problem_5.Formatting_Numbers.exe
+C:\Users\Margarit\Desktop\Software University\4.Вход и изход от конзолата\Homework4\Homework Console Input Output\Problem 5. Formatting Numbers\obj\x86\Debug\Problem_5.Formatting_Numbers.pdb

@@ -1,0 +1,4 @@
+C:\Users\Margarit\Desktop\Software University\4.Вход и изход от конзолата\Homework4\Homework Console Input Output\Problem 3.Circle Perimeter\bin\Debug\Problem 3.Circle Perimeter.exe
+C:\Users\Margarit\Desktop\Software University\4.Вход и изход от конзолата\Homework4\Homework Console Input Output\Problem 3.Circle Perimeter\bin\Debug\Problem 3.Circle Perimeter.pdb
+C:\Users\Margarit\Desktop\Software University\4.Вход и изход от конзолата\Homework4\Homework Console Input Output\Problem 3.Circle Perimeter\obj\x86\Debug\Problem 3.Circle Perimeter.exe
+C:\Users\Margarit\Desktop\Software University\4.Вход и изход от конзолата\Homework4\Homework Console Input Output\Problem 3.Circle Perimeter\obj\x86\Debug\Problem 3.Circle Perimeter.pdb
